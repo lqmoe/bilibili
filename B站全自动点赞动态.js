@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         B站全自动点赞动态
-// @version      0.1
+// @version      0.2
+// @icon         https://www.bilibili.com/favicon.ico
 // @author       绫浅
 // @match        https://t.bilibili.com/*
 // @run-at       document-end
